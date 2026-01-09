@@ -1,1 +1,0 @@
-# boiler-plate-nodeJS-typescript
